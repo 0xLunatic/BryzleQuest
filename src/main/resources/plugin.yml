@@ -1,0 +1,8 @@
+name: BryzleQuest
+version: '${project.version}'
+main: lunatic.bryzlequest.Main
+api-version: '1.20'
+commands:
+  bryzle:
+    description: Quest management command
+    usage: /bryzle <accept|deny|abandon|turnin>

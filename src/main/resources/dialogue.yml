@@ -1,0 +1,41 @@
+accept:
+  easy:
+    - "Greetings, %player%! You've embarked on a quest for easy-to-find materials. Your task is to collect %amount% %material%. Good luck!"
+    - "Hey %player%! The quest you've taken on is for common materials. You need to collect %amount% %material%. Good luck!"
+  medium:
+    - "Welcome, %player%! You've taken on a quest for materials of moderate rarity. Gather %amount% %material%. Good luck!"
+    - "Hello %player%! You're after materials that are a bit harder to find. You need to get %amount% %material%. Good luck!"
+  hard:
+    - "Hey %player%! You've chosen a challenging quest for rare materials. Collect %amount% %material%. Good luck!"
+    - "Greetings %player%! You're after some hard-to-find materials. You need %amount% %material%. Good luck!"
+  expert:
+    - "Greetings, %player%! You've embarked on a quest for legendary and exceedingly rare materials. Your task is to collect %amount% %material%. Good luck!"
+    - "Hey %player%! This is no ordinary quest; it's for the rarest materials. You need to collect %amount% %material%. Good luck!"
+
+progress:
+  easy:
+    - "Hey %player%! You're making progress in your quest for common materials. You still need to collect %remaining% more %material%."
+    - "Hello %player%! You've got some of the materials, but you need %remaining% more %material%. Keep going!"
+  medium:
+    - "Hey %player%! You're doing well in your quest for uncommon materials. You need %remaining% more %material%."
+    - "Hello %player%! You're halfway there in gathering %material%, but you need %remaining% more. Keep it up!"
+  hard:
+    - "Hey %player%! You're making good progress in gathering rare materials. You still need %remaining% more %material%."
+    - "Hello %player%! You're getting close to gathering all the rare materials, but you need %remaining% more. Keep pushing!"
+  expert:
+    - "Hey %player%! You're making excellent progress in your quest for legendary materials. You need %remaining% more %material%."
+    - "Hello %player%! You're almost there in gathering the legendary materials, but you need %remaining% more. Keep going!"
+
+completion:
+  easy:
+    - "Congratulations, %player%! You have successfully completed your quest for common materials. You found all required %material%. Well done!"
+    - "Well done, %player%! You've collected all %material% required for your quest. Congratulations!"
+  medium:
+    - "Congratulations, %player%! You have successfully completed your quest for uncommon materials. You found all required %material%. Well done!"
+    - "Well done, %player%! You've gathered all %material% needed for your quest. Congratulations!"
+  hard:
+    - "Congratulations, %player%! You have successfully completed your quest for rare materials. You found all required %material%. Well done!"
+    - "Great job, %player%! You've found all %material% needed for your quest. Congratulations!"
+  expert:
+    - "Congratulations, %player%! You have successfully completed your quest for legendary materials. You found all required %material%. Well done!"
+    - "Excellent work, %player%! You've gathered all %material% required for your legendary quest. Congratulations!"
